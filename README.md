@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+NestJS+%7C+React;Fintech+%26+Payments+%F0%9F%92%B3)](https://github.com/CamiloMH)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;TypeScript+%7C+NestJS+%7C+React;Fintech+%26+Payments)](https://github.com/CamiloMH)
 
 </div>
 
@@ -11,14 +11,14 @@ const camilo: Developer = {
   name:      "Camilo Muñoz",
   role:      "Full-Stack Developer",
   location:  "Chile 🇨🇱",
-  focus:     ["Payment Platforms", "Scalable APIs", "Cloud Infrastructure"],
+  focus:     ["Payment Platforms", "Scalable APIs", "AI", "Agents", "Automation"],
   available: true,
 };
 ```
 
 <br/>
 
-<h3 align="center">🛠 Tech I work with</h3>
+<h3 align="center">🛠 Tech </h3>
 
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
